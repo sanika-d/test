@@ -1,0 +1,5 @@
+{{#user}}
+Name: Sanika Dixit
+Skills: HTML, CSS, JS, React.js, Next.js, Python
+Email: dixit.sanika0506@gmail.com
+{{/user}}
